@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "antigravity-skills"
+version = "0.1.0"
+description = "Antigravity Skills Manager for Gemini 3 and Claude Skills"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+antigravity-skills = "antigravity_skills.cli:main"
