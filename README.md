@@ -3,7 +3,7 @@
 **Motivation**: A skill management system for the Gemini 3 framework that is interchangeable with the Claude skills frameworks and samples. It allows you to seamlessly ingest and use skills from the broader ecosystem as native Antigravity Workflows or Rules.
 
 **Resources**:
-- [Antigravity Documentation](https://antigravity.dev) 
+- [Antigravity Documentation](https://antigravity.google/docs/rules-workflows)
 - [Anthropics Skills Repo](https://github.com/anthropics/skills)
 - [Gemini 3 Framework](https://gemini.google.com) 
 
